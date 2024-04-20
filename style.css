@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(228, 155, 81);
+}
+.container {
+  margin-top: 10px;
+}
+.card {
+  border: 10px;
+  background-color: rgb(228, 155, 81);
+}
+.card-img-top {
+  margin-left: 8px;
+}
+.container-fluid {
+  padding: 10px;
+  background-color: rgb(228, 155, 81);
+}
+.content {
+  border-color: black;
+}
